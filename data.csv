@@ -1,0 +1,366 @@
+,date,name1,name2,draft,color,splash,lands,twos,rares,r1,r2,r3,exceed,failed,camp,x1,x2,color2,c1,c2,name,white,blue,black,red,green,wins,losses
+0,4/28/2017 13:42:33,Jon Stern,,1,"Blue, Green",1,16,5,0,Lose,Lose,Did not play,none,ornery kudu,FRIDAY DC,,,"['Blue', 'Green']",Blue,Green,Jon Stern,0,1,0,0,1,0,2
+1,4/28/2017 13:57:11,,Jarvis Yu,1,"Black, Green",0,17,4,1,Win,Lose,Lose,,,FRIDAY DC,,,"['Black', 'Green']",Black,Green,Jarvis Yu,0,0,1,0,1,1,2
+2,4/28/2017 14:09:21,,Andrew Berke,1,"White, Red",0,17,5,0,Did not play,Lose,Win,Emberhorn Minotaur,,FRIDAY DC,,,"['White', 'Red']",White,Red,Andrew Berke,1,0,0,1,0,1,1
+3,4/28/2017 14:09:38,,,1,"White, Red",0,17,3,3,Win,Win,Lose,"Djeru's resolve, mighty leap",,FRIDAY DC,,,"['White', 'Red']",White,Red,,1,0,0,1,0,2,1
+4,4/28/2017 14:21:34,,Josh Cho,1,"White, Red",0,16,9,2,Lose,Did not play,Lose,,,FRIDAY DC,,,"['White', 'Red']",White,Red,Josh Cho,1,0,0,1,0,0,2
+5,4/28/2017 15:10:03,,Ben Nikolich,1,"Blue, Black",0,16,2,1,Win,Win,Win,Horror of the Broken Lands,,FRIDAY DC,,,"['Blue', 'Black']",Blue,Black,Ben Nikolich,0,1,1,0,0,3,0
+6,4/28/2017 16:55:16,,Jeff Gottstein,2,Red,0,16,7,2,Win,Lose,Win,"Insult/injury, bloodrage brawler",Mountain,FRIDAY DC,,,['Red'],Red,,Jeff Gottstein,0,0,0,1,0,2,1
+7,4/28/2017 17:23:32,Josh Cho,,2,"Blue, Black",1,17,3,4,Win,Lose,Lose,lay claim,,FRIDAY DC,,,"['Blue', 'Black']",Blue,Black,Josh Cho,0,1,1,0,0,1,2
+8,4/28/2017 17:33:47,Jarvis Yu,,2,"White, Black",0,17,7,1,Lose,Win,Win,Anointer priest,,FRIDAY DC,,,"['White', 'Black']",White,Black,Jarvis Yu,1,0,1,0,0,2,1
+9,4/28/2017 17:35:19,Jon Stern,,2,"White, Green",0,17,5,2,Lose,Lose,Lose,Spidery grasp,Sandwurm convergence,FRIDAY DC,,,"['White', 'Green']",White,Green,Jon Stern,1,0,0,0,1,0,3
+10,4/28/2017 17:38:42,Andrew Berke,,2,"Black, Red",0,17,5,2,Lose,Lose,Win,Minotaur Sureshot,Merciless Javileneer,FRIDAY DC,,,"['Black', 'Red']",Black,Red,Andrew Berke,0,0,1,1,0,1,2
+11,4/28/2017 17:40:23,,Travis Woo,2,"White, Green",0,17,4,0,Win,Win,Win,"Exemplar of Strength, Cartouche of Solitarity, Those Who Serve, Trial of Solitarity",,FRIDAY DC,,,"['White', 'Green']",White,Green,Travis Woo,1,0,0,0,1,3,0
+12,4/28/2017 17:42:01,,Charles League,2,"Blue, Green",1,17,4,3,Lose,Win,Lose,Mind // Spring,,FRIDAY DC,,,"['Blue', 'Green']",Blue,Green,Charles League,0,1,0,0,1,1,2
+13,4/28/2017 19:57:01,Alex Majlaton,,3,"Red, Green",0,16,8,3,Lose,Win,Win,Onward//Victory,,FRIDAY DC,,,"['Red', 'Green']",Red,Green,Alex Majlaton,0,0,0,1,1,2,1
+14,4/28/2017 19:59:08,Jarvis Yu,,3,"Red, Green",0,17,5,1,Lose,Win,Lose,,,FRIDAY DC,,,"['Red', 'Green']",Red,Green,Jarvis Yu,0,0,0,1,1,1,2
+15,4/28/2017 20:00:52,Ben Nikolich,,3,"White, Blue",0,17,6,2,Lose,Lose,Win,Essence Scatter ,Anointed Priest ,FRIDAY DC,,,"['White', 'Blue']",White,Blue,Ben Nikolich,1,1,0,0,0,1,2
+16,4/28/2017 20:33:16,Travis Woo,,3,"Blue, Black",1,17,4,1,Win,Lose,Lose,Trial of knowledge,Cursed minotaur,FRIDAY DC,,,"['Blue', 'Black']",Blue,Black,Travis Woo,0,1,1,0,0,1,2
+17,4/28/2017 21:05:35,,Pascal Maynard,3,"White, Black",0,16,4,1,Win,Win,Lose,Wander in Death,,FRIDAY DC,,,"['White', 'Black']",White,Black,Pascal Maynard,1,0,1,0,0,2,1
+18,4/28/2017 21:05:52,Jon Stern,,3,"White, Red",0,16,7,0,Win,Win,Win,"trial of solidarity, oketras monument",,FRIDAY DC,,,"['White', 'Red']",White,Red,Jon Stern,1,0,0,1,0,3,0
+19,4/28/2017 21:07:23,,Timothy Wu,3,"Black, Green",1,17,7,1,Win,Lose,Win,Destined // Lead,,FRIDAY DC,,,"['Black', 'Green']",Black,Green,Timothy Wu,0,0,1,0,1,2,1
+20,4/29/2017 1:32:02,Jeff Gottstein,,3,"Blue, Black",0,16,3,2,Lose,Lose,Lose,trespasser's curse,,Other,,,"['Blue', 'Black']",Blue,Black,Jeff Gottstein,0,1,1,0,0,0,3
+21,4/29/2017 1:51:59,,Matt Ling,1,"Blue, Red",0,17,2,2,Lose,Win,Win,"Seeker of Insight, Winds of Rebuke",Kefnet the Mindful ,Other,,,"['Blue', 'Red']",Blue,Red,Matt Ling,0,1,0,1,0,2,1
+22,4/29/2017 1:55:33,Matt Ling,,2,"Blue, Green",0,17,4,2,Win,Win,Lose,Rhonas's Monument,,Other,,,"['Blue', 'Green']",Blue,Green,Matt Ling,0,1,0,0,1,2,1
+23,4/29/2017 12:17:07,,Ari Lax,2,"White, Green",1,16,6,2,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Ari Lax,1,0,0,0,1,2,1
+24,4/29/2017 12:17:42,Jarvis Yu,,2,"White, Blue",0,17,4,5,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Jarvis Yu,1,1,0,0,0,1,2
+25,4/29/2017 12:17:50,,Patrick reynolds,2,"Black, Red",0,16,2,2,Lose,Win,Lose,Grim strider,Combat celebrant ,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Patrick reynolds,0,0,1,1,0,1,2
+26,4/29/2017 12:21:42,,Naod Haddish,5,"Blue, Black",0,17,6,2,Lose,Lose,Did not play,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Naod Haddish,0,1,1,0,0,0,2
+27,4/29/2017 12:21:59,,Michael Simon,2,"White, Black",1,17,10,2,Lose,Lose,Lose,Haze of Pollen,Approach of the Second Sun,DC Draft Camp,,,"['White', 'Black']",White,Black,Michael Simon,1,0,1,0,0,0,3
+28,4/29/2017 12:28:13,,Pat Cox ,3,"White, Black",0,16,6,2,Lose,Win,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Pat Cox ,1,0,1,0,0,2,1
+29,4/29/2017 12:33:42,,Jake Mondello,1,"Black, Green",1,17,5,3,Lose,Win,Win,Scarab Feast,Calcano ,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Jake Mondello,0,0,1,0,1,2,1
+30,4/29/2017 12:34:18,,Lucas michaels,2,"White, Blue",0,17,6,3,Win,Lose,Lose,Essence scatter,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Lucas michaels,1,1,0,0,0,1,2
+31,4/29/2017 12:34:22,,Frank Skarren,1,"Black, Red",0,17,4,1,Win,Lose,Lose,5/4 bolt manticore ,Unburden ,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Frank Skarren,0,0,1,1,0,1,2
+32,4/29/2017 12:35:05,,Daniel Zeffert,3,"Red, Green",0,16,3,2,Win,Lose,Lose,Heart-pierce manticore,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Daniel Zeffert,0,0,0,1,1,1,2
+33,4/29/2017 12:36:25,,Sawyer Lucy,2,"Black, Green",0,17,4,1,Lose,Win,Win,Destined to Lead,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Sawyer Lucy,0,0,1,0,1,2,1
+34,4/29/2017 12:38:04,,Ryan Saxe,1,"White, Black",0,17,4,2,Win,Lose,Win,Cartouche of Solidarity,Tah-crop Elite,DC Draft Camp,,,"['White', 'Black']",White,Black,Ryan Saxe,1,0,1,0,0,2,1
+35,4/29/2017 12:39:26,Ben Nikolich,,3,"White, Blue",0,17,6,2,Win,Win,Lose,Aven Wind Guide,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Ben Nikolich,1,1,0,0,0,2,1
+36,4/29/2017 12:39:29,,Evan Whitehouse,2,"Black, Red",0,16,6,0,Win,Win,Lose,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Evan Whitehouse,0,0,1,1,0,2,1
+37,4/29/2017 12:40:20,Pascal Maynard,,2,"Blue, Red",0,17,5,1,Win,Win,Win,Open into Wonder,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Pascal Maynard,0,1,0,1,0,3,0
+38,4/29/2017 12:41:25,,Steve Rubin,3,"Black, Green",0,17,6,2,Win,Win,Win,Nest of Scarabs,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Steve Rubin,0,0,1,0,1,3,0
+39,4/29/2017 12:46:03,Timothy Wu,,1,"Blue, Black",0,16,4,3,Win,Win,Win,Scarab Feast,Aven Initiate,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Timothy Wu,0,1,1,0,0,3,0
+40,4/29/2017 12:46:13,,Brendan Hurst,3,"Blue, Green",0,17,4,3,Lose,Lose,Lose,,Sandwurm Convergence,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Brendan Hurst,0,1,0,0,1,0,3
+41,4/29/2017 12:46:56,,Chas Hinkle,3,"Black, Red",0,16,4,1,Lose,Win,Lose,Ahn-crop Crasher,Faith of the Devoted,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Chas Hinkle,0,0,1,1,0,1,2
+42,4/29/2017 12:47:36,Matt Ling,,3,"White, Black",0,17,4,2,Win,Lose,Win,"Anointer Priest, Supply Caravan",,DC Draft Camp,,,"['White', 'Black']",White,Black,Matt Ling,1,0,1,0,0,2,1
+43,4/29/2017 12:51:03,,Jon Stern,1,"Blue, Green",0,17,5,1,Win,Win,Lose,rhonas' s monument,ornery kudu,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Jon Stern,0,1,0,0,1,2,1
+44,4/29/2017 12:52:03,,Adam Ragsdale,1,"Red, Green",0,16,6,2,Lose,Lose,Lose,,Sandwurm convergence,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Adam Ragsdale,0,0,0,1,1,0,3
+45,4/29/2017 12:53:51,,Brendan Cevasco,3,"Blue, Red",1,17,0,1,Lose,Lose,Win,,hekma seninels,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Brendan Cevasco,0,1,0,1,0,1,2
+46,4/29/2017 12:53:58,,Bob Marshall,1,White,1,17,4,4,Lose,Lose,Win,Scarab feast,Gideon of the trails,DC Draft Camp,,,['White'],White,,Bob Marshall,1,0,0,0,0,1,2
+47,4/29/2017 12:55:34,,Nate Sturm,5,"White, Green",0,16,7,1,Lose,Lose,Did not play,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Nate Sturm,1,0,0,0,1,0,2
+48,4/29/2017 12:56:24,,Calcano,1,"Blue, Red",1,16,3,1,Lose,Win,Lose,Seeker of Insight,Galestrike,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Calcano,0,1,0,1,0,1,2
+49,4/29/2017 13:04:43,,,5,"White, Green",0,16,5,0,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,,1,0,0,0,1,1,2
+50,4/29/2017 13:05:39,,Alex Majlaton,5,"White, Red",0,15,9,1,Lose,Win,Win,Vizier of Deferment,Ahn Crop Crasher,DC Draft Camp,,,"['White', 'Red']",White,Red,Alex Majlaton,1,0,0,1,0,2,1
+51,4/29/2017 13:12:35,,Joel Sadowsky,5,"White, Black",0,16,3,2,Win,Win,Lose,Vizier of deferment,,DC Draft Camp,,,"['White', 'Black']",White,Black,Joel Sadowsky,1,0,1,0,0,2,1
+52,4/29/2017 13:14:28,Josh Cho,,5,"Blue, Green",0,17,3,2,Win,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Josh Cho,0,1,0,0,1,1,2
+53,4/29/2017 13:14:35,,Abe Stein,5,"Blue, Green",0,16,4,3,Win,Win,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Abe Stein,0,1,0,0,1,3,0
+54,4/29/2017 13:15:16,,Ben Anderson,5,"White, Black",0,17,6,2,Win,Lose,Win,cursed minotaur,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ben Anderson,1,0,1,0,0,2,1
+55,4/29/2017 13:26:57,,Neeraj Shukla,4,"Blue, Red",1,17,3,0,Lose,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Neeraj Shukla,0,1,0,1,0,1,2
+56,4/29/2017 13:28:33,Jeff Gottstein,,4,"Red, Green",1,17,5,3,Win,Lose,Win,"Spidery grasp, cascading cataracts",,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Jeff Gottstein,0,0,0,1,1,2,1
+57,4/29/2017 13:28:57,,Andrew Elenbogen,6,"Blue, Black",0,16,4,1,Win,Lose,Lose,Cartouche of Ambition,Tah-Crop Skirmisher,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Andrew Elenbogen,0,1,1,0,0,1,2
+58,4/29/2017 13:38:10,,Jamie Miller,6,Red,0,16,9,2,Win,Lose,Lose,Brute Strength,Pursue Glory,DC Draft Camp,,,['Red'],Red,,Jamie Miller,0,0,0,1,0,1,2
+59,4/29/2017 13:39:08,Travis Woo,,12,"White, Blue",0,16,4,1,Lose,Win,Win,"Vizier, supply caravan",,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Travis Woo,1,1,0,0,0,2,1
+60,4/29/2017 13:39:55,,Liam Bollard,6,"Blue, Green",0,16,3,0,Lose,Lose,Win,Decision paralysis,Zenith Seeker,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Liam Bollard,0,1,0,0,1,1,2
+61,4/29/2017 13:43:00,,Bradley Robinson,4,"White, Green",0,16,4,4,Win,Win,Win,Rhonas was naturally insane. ,Initiates companion was only average. ,DC Draft Camp,,,"['White', 'Green']",White,Green,Bradley Robinson,1,0,0,0,1,3,0
+62,4/29/2017 13:45:47,,Adonnys Medrano,4,"White, Black",0,16,9,2,Win,Win,Lose,Miasmic mummy,Vizier of remedies,DC Draft Camp,,,"['White', 'Black']",White,Black,Adonnys Medrano,1,0,1,0,0,2,1
+63,4/29/2017 14:01:36,,Brendan McKay,7,"Red, Green",0,17,3,4,Lose,Lose,Did not play,Naga Vigilist,Greater Sandworm,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Brendan McKay,0,0,0,1,1,0,2
+64,4/29/2017 14:04:00,,Bobby Birmingham,4,"Black, Green",0,16,4,0,Lose,Win,Lose,Decimator Beetle,Intitate's companion,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Bobby Birmingham,0,0,1,0,1,1,2
+65,4/29/2017 14:07:08,,Grant B,4,"Black, Green",1,17,4,1,Win,Lose,Win,Wander in Death,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Grant B,0,0,1,0,1,2,1
+66,4/29/2017 14:07:08,,Grant B,4,"Black, Green",1,17,4,1,Win,Lose,Win,Wander in Death,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Grant B,0,0,1,0,1,2,1
+67,4/29/2017 14:20:09,,,4,"Blue, Red",0,16,2,4,Lose,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,,0,1,0,1,0,0,3
+68,4/29/2017 14:21:17,,Ralph,4,"Blue, Red",0,16,2,4,Lose,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ralph,0,1,0,1,0,0,3
+69,4/29/2017 14:39:31,,Owen Collier-Ridge,7,"White, Red",0,16,5,0,Win,Lose,Lose,Oketra's Monument,,DC Draft Camp,,,"['White', 'Red']",White,Red,Owen Collier-Ridge,1,0,0,1,0,1,2
+70,4/29/2017 14:46:19,Lucas michaels,,8,"White, Green",0,17,5,2,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Lucas michaels,1,0,0,0,1,1,2
+71,4/29/2017 14:48:00,Sawyer Lucy,,8,"White, Red",1,17,2,3,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Sawyer Lucy,1,0,0,1,0,0,3
+72,4/29/2017 14:50:19,,mike w,7,"Black, Green",0,17,3,1,Lose,Win,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,mike w,0,0,1,0,1,2,1
+73,4/29/2017 14:54:56,Ari Lax,,8,"White, Black",0,16,6,2,Lose,Win,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ari Lax,1,0,1,0,0,1,2
+74,4/29/2017 14:55:41,Jarvis Yu,,7,"Black, Red",0,17,5,2,Win,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Jarvis Yu,0,0,1,1,0,2,1
+75,4/29/2017 14:57:24,,Mascioli,8,"Blue, Red",0,17,3,1,Lose,Win,Win,Insult/injury,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Mascioli,0,1,0,1,0,2,1
+76,4/29/2017 14:57:27,,Chad uzzell,7,"Blue, Red",0,17,3,2,Lose,Win,Lose,Consuming fervor,Lay claim,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Chad uzzell,0,1,0,1,0,1,2
+77,4/29/2017 14:59:41,Frank Skarren,,8,"Red, Green",0,17,6,1,Win,Lose,Win,2/1 that makes small guys unblockable,1 mana 1/1 that gives haste ,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Frank Skarren,0,0,0,1,1,2,1
+78,4/29/2017 15:00:20,Jake Mondello,,8,Black,1,17,6,3,Win,Lose,Lose,Festering mummy,Bontu,DC Draft Camp,,,['Black'],Black,,Jake Mondello,0,0,1,0,0,1,2
+79,4/29/2017 15:03:16,,Rachel Otto,4,"Blue, Green",1,17,4,1,Lose,Lose,Win,Naga Oracle,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Rachel Otto,0,1,0,0,1,1,2
+80,4/29/2017 15:05:21,Michael Simon,,8,"Blue, Red",0,17,4,3,Win,Win,Lose,Scribe of the Mindfulness,Trial of Knowledge,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Michael Simon,0,1,0,1,0,2,1
+81,4/29/2017 15:05:22,,Siggy,6,"White, Black",0,17,8,4,Lose,Win,Win,None ,Gideon ,DC Draft Camp,,,"['White', 'Black']",White,Black,Siggy,1,0,1,0,0,2,1
+82,4/29/2017 15:06:44,Patrick reynolds,,8,"White, Blue",0,17,6,2,Win,Win,Win,Edifice ,Hieroglyphic illumination ,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Patrick reynolds,1,1,0,0,0,3,0
+83,4/29/2017 15:13:38,Calcano,,10,"White, Black",0,15,10,2,Win,Win,Lose,Miasmic Mummy,"None, they were all great. ",DC Draft Camp,,,"['White', 'Black']",White,Black,Calcano,1,0,1,0,0,2,1
+84,4/29/2017 15:15:17,Nate Sturm,,10,"Red, Green",0,16,7,1,Win,Win,Win,Hooded Brawler,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Nate Sturm,0,0,0,1,1,3,0
+85,4/29/2017 15:15:22,Ben Nikolich,,9,"Blue, Black",0,16,3,3,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Ben Nikolich,0,1,1,0,0,2,1
+86,4/29/2017 15:15:24,Steve Rubin,,9,"White, Blue",1,17,4,4,Lose,Win,Win,Vizier if Remedies,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Steve Rubin,1,1,0,0,0,2,1
+87,4/29/2017 15:17:25,Evan Whitehouse,,9,"White, Red",0,17,4,1,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Evan Whitehouse,1,0,0,1,0,1,2
+88,4/29/2017 15:18:15,Joel Sadowsky,,11,"Black, Green",0,16,4,3,Win,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Joel Sadowsky,0,0,1,0,1,1,2
+89,4/29/2017 15:19:04,Matt Ling,,10,"Black, Green",0,17,1,0,Win,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Matt Ling,0,0,1,0,1,1,2
+90,4/29/2017 15:19:30,Pascal Maynard,,9,"White, Red",0,16,9,0,Win,Win,Lose,Trial of Solidarity,,DC Draft Camp,,,"['White', 'Red']",White,Red,Pascal Maynard,1,0,0,1,0,2,1
+91,4/29/2017 15:20:04,Ryan Saxe,,9,"Blue, Black",1,17,3,4,Win,Win,Win,Cartouche of ambition,Floodwaters,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Ryan Saxe,0,1,1,0,0,3,0
+92,4/29/2017 15:21:10,,Seth Manfield,11,"Blue, Green",1,16,4,4,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Seth Manfield,0,1,0,0,1,2,1
+93,4/29/2017 15:22:00,Seth Manfield,,5,"White, Green",0,16,5,1,Lose,Win,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Seth Manfield,1,0,0,0,1,1,2
+94,4/29/2017 15:22:11,,Eli Yannopoulos,10,"Black, Green",0,16,4,2,Lose,Win,Win,Stinging Shot,Faith of the Devoted,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Eli Yannopoulos,0,0,1,0,1,2,1
+95,4/29/2017 15:22:12,Timothy Wu,,9,"Black, Red",0,17,7,3,Lose,Win,Lose,Fling,Harsh Mentor,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Timothy Wu,0,0,1,1,0,1,2
+96,4/29/2017 15:23:14,,Anand Khare,11,"White, Red",0,16,10,3,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Anand Khare,1,0,0,1,0,2,1
+97,4/29/2017 15:28:21,Andrew Berke,,11,"Blue, Red",0,17,6,3,Win,Win,Win,Oracle's Vault,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Andrew Berke,0,1,0,1,0,3,0
+98,4/29/2017 15:29:15,Chas Hinkle,,10,"Blue, Red",0,17,5,1,Lose,Win,Lose,Decision Paralysis,Hieroglyphic Illumination,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Chas Hinkle,0,1,0,1,0,1,2
+99,4/29/2017 15:29:54,Pat Cox,,10,"White, Red",0,17,6,2,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Pat Cox,1,0,0,1,0,1,2
+100,4/29/2017 15:31:04,Adam Ragsdale,,10,"White, Blue",0,17,5,3,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Adam Ragsdale,1,1,0,0,0,0,3
+101,4/29/2017 15:32:13,Jon Stern,,10,"Black, Green",1,16,7,4,Win,Lose,Win,"oashra cultivator, champion of rhonas",soulstinger,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Jon Stern,0,0,1,0,1,2,1
+102,4/29/2017 15:35:00,Abe Stein,,12,"Blue, Red",0,16,3,1,Win,Win,Lose,Battlefield scavenger,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Abe Stein,0,1,0,1,0,2,1
+103,4/29/2017 15:35:07,Andrew Elenbogen,,12,"Black, Green",0,17,3,2,Lose,Lose,Did not play,Splendid Agony,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Andrew Elenbogen,0,0,1,0,1,0,2
+104,4/29/2017 15:35:29,,Lance Hartbarger,9,"White, Black",0,16,4,1,Lose,Lose,Lose,Rhonas's Monument,Anointer Priest,DC Draft Camp,,,"['White', 'Black']",White,Black,Lance Hartbarger,1,0,1,0,0,0,3
+105,4/29/2017 15:36:16,,Hayne,7,"Blue, Green",1,17,3,3,Win,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Hayne,0,1,0,0,1,2,1
+106,4/29/2017 15:36:29,Brendan Hurst,,9,"White, Green",0,17,6,2,Lose,Lose,Win,"Djeru's Resolve, Watchers of the Dead",,DC Draft Camp,,,"['White', 'Green']",White,Green,Brendan Hurst,1,0,0,0,1,1,2
+107,4/29/2017 15:37:25,Liam Bollard,,12,"White, Blue",0,17,5,0,Lose,Lose,Did not play,Illusion 2/3,Embalm cat,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Liam Bollard,1,1,0,0,0,0,2
+108,4/29/2017 15:37:41,,Patrick Johnson,7,"White, Black",0,16,4,1,Win,Win,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Patrick Johnson,1,0,1,0,0,3,0
+109,4/29/2017 15:42:04,Neeraj Shukla,,12,"White, Black",0,17,4,1,Lose,Win,Did not play,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Neeraj Shukla,1,0,1,0,0,1,1
+110,4/29/2017 15:43:48,Ben Anderson,,11,"Blue, Red",0,17,2,0,Lose,Win,Lose,essence scatter,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ben Anderson,0,1,0,1,0,1,2
+111,4/29/2017 15:44:47,Eli Yannopoulos,,11,White,1,16,10,2,Lose,Lose,Win,Oketra's monument,,DC Draft Camp,,,['White'],White,,Eli Yannopoulos,1,0,0,0,0,1,2
+112,4/29/2017 15:47:31,Travis Woo,,12,"Black, Green",1,17,3,2,Win,Lose,Lose,Giant Spiderm,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Travis Woo,0,0,1,0,1,1,2
+113,4/29/2017 15:51:48,,Eric Froehlich ,12,"White, Red",0,17,5,3,Win,Win,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Eric Froehlich ,1,0,0,1,0,3,0
+114,4/29/2017 16:07:39,Bob Marshall,,12,Black,0,17,6,1,Win,Lose,Win,Blighted bat,,DC Draft Camp,,,['Black'],Black,,Bob Marshall,0,0,1,0,0,2,1
+115,4/29/2017 16:08:52,,Evan Appleton,14,"Blue, Green",0,17,5,0,Lose,Lose,Lose,,Labyrinth guardian,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Evan Appleton,0,1,0,0,1,0,3
+116,4/29/2017 16:12:41,Josh Cho,,12,"White, Green",0,17,4,2,Lose,Win,Did not play,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Josh Cho,1,0,0,0,1,1,1
+117,4/29/2017 16:13:18,Bobby Birmingham,,14,"White, Green",0,17,5,1,Lose,Lose,Win,Defiant greatmaw,"Watchers of the dead, I did not read it.",DC Draft Camp,,,"['White', 'Green']",White,Green,Bobby Birmingham,1,0,0,0,1,1,2
+118,4/29/2017 16:14:42,,Matthew Towles,11,"Red, Green",1,16,4,0,Lose,Win,Win,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Matthew Towles,0,0,0,1,1,2,1
+119,4/29/2017 16:16:11,,Kyle wickenheiser,11,"Blue, Black",0,17,3,2,Lose,Lose,Lose,Aven initiate,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Kyle wickenheiser,0,1,1,0,0,0,3
+120,4/29/2017 16:29:53,Ben Anderson,,18,"Blue, Red",0,17,4,1,Did not play,Did not play,Did not play,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ben Anderson,0,1,0,1,0,0,0
+121,4/29/2017 16:34:31,Jamie Miller,,13,"Blue, Green",1,17,4,2,Lose,Lose,Lose,Spring//Mind,Weaver of currents,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Jamie Miller,0,1,0,0,1,0,3
+122,4/29/2017 16:34:49,Adonnys Medrano,,13,"Red, Green",0,16,5,1,Lose,Lose,Win,Brute of strength ,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Adonnys Medrano,0,0,0,1,1,1,2
+123,4/29/2017 16:38:18,,Ondrej strasky,14,"Blue, Black",0,17,2,3,Lose,Win,Win,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Ondrej strasky,0,1,1,0,0,2,1
+124,4/29/2017 16:39:44,,,6,"Black, Green",0,16,7,1,Win,Win,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,,0,0,1,0,1,2,1
+125,4/29/2017 16:42:28,Jeff Gottstein,,13,"White, Black",1,17,8,0,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Jeff Gottstein,1,0,1,0,0,1,2
+126,4/29/2017 16:51:12,Ralph,,14,"White, Black",0,16,4,2,Win,Lose,Win,White monument ,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ralph,1,0,1,0,0,2,1
+127,4/29/2017 16:51:52,Mascioli,,15,"White, Green",0,17,5,0,Lose,Win,Did not play,Green temple,,DC Draft Camp,,,"['White', 'Green']",White,Green,Mascioli,1,0,0,0,1,1,1
+128,4/29/2017 16:52:58,Brendan McKay,,14,"Red, Green",0,17,7,2,Win,Win,Win,Cartouche of Zeal,Greater Sandworm,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Brendan McKay,0,0,0,1,1,3,0
+129,4/29/2017 16:56:52,,Paulo Vitor,14,"Black, Red",0,17,6,3,Win,Win,Lose,Cut // Ribbons,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Paulo Vitor,0,0,1,1,0,2,1
+130,4/29/2017 17:01:12,,Stephen neal,13,"White, Red",1,16,3,4,Lose,Win,Win,Neheb,New perspectives ,DC Draft Camp,,,"['White', 'Red']",White,Red,Stephen neal,1,0,0,1,0,2,1
+131,4/29/2017 17:10:27,Brendan Cevasco,,13,"White, Blue",0,17,6,0,Win,Lose,Lose,,lay claim,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Brendan Cevasco,1,1,0,0,0,1,2
+132,4/29/2017 17:12:14,Rachel Otto,,13,"Black, Green",0,17,5,4,Lose,Win,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Rachel Otto,0,0,1,0,1,2,1
+133,4/29/2017 17:19:14,Owen Collier-Ridge,,15,"White, Black",0,16,4,1,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Owen Collier-Ridge,1,0,1,0,0,2,1
+134,4/29/2017 17:19:51,Alex Majlaton,,13,"White, Black",0,15,7,0,Win,Win,Win,Supernatural Stamina,Compulsory Rest,DC Draft Camp,,,"['White', 'Black']",White,Black,Alex Majlaton,1,0,1,0,0,3,0
+135,4/29/2017 17:20:45,Bradley Robinson,,13,"Blue, Red",0,17,5,3,Win,Win,Lose,Edifice of authority,Insult // injury,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Bradley Robinson,0,1,0,1,0,2,1
+136,4/29/2017 17:21:54,,mike w,15,"Red, Green",0,17,4,0,Win,Lose,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,mike w,0,0,0,1,1,1,2
+137,4/29/2017 17:37:39,Evan Appleton,,19,"Red, Green",0,17,5,0,Win,Win,Did not play,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Evan Appleton,0,0,0,1,1,2,0
+138,4/29/2017 17:38:56,Jake Mondello,,15,"Blue, Green",1,17,3,3,Win,Win,Lose,Vizier of sands + edifice + sandwurm convergence ,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Jake Mondello,0,1,0,0,1,2,1
+139,4/29/2017 17:39:38,Grant B,,15,"White, Blue",1,17,4,2,Lose,Lose,Win,Fan Bearer,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Grant B,1,1,0,0,0,1,2
+140,4/29/2017 17:39:57,Ari Lax,,15,"Black, Red",0,16,6,3,Win,Win,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Ari Lax,0,0,1,1,0,3,0
+141,4/29/2017 17:45:25,Adam Ragsdale,,17,"White, Red",0,17,8,2,Win,Win,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Adam Ragsdale,1,0,0,1,0,3,0
+142,4/29/2017 17:45:43,Pat Cox,,17,"Blue, Green",0,17,3,2,Win,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Pat Cox,0,1,0,0,1,2,1
+143,4/29/2017 17:47:44,Calcano,,17,"Black, Red",0,15,8,4,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Calcano,0,0,1,1,0,1,2
+144,4/29/2017 17:49:00,Liam Bollard,,17,"Red, Green",0,17,4,2,Lose,Lose,Lose,Bloodlust inciter,Brute strength,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Liam Bollard,0,0,0,1,1,0,3
+145,4/29/2017 17:51:33,Andrew Elenbogen,,17,"Blue, Black",0,17,5,3,Win,Lose,Win,Baleful Ammit,Archfiend of Ifnir,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Andrew Elenbogen,0,1,1,0,0,2,1
+146,4/29/2017 17:51:55,Bobby Birmingham,,19,"Blue, Black",1,16,1,2,Lose,Lose,Did not play,Ugh,All of them,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Bobby Birmingham,0,1,1,0,0,0,2
+147,4/29/2017 18:04:31,Andrew Berke,,17,"White, Blue",0,17,5,3,Lose,Win,Win,Cartouche of Knowledge,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Andrew Berke,1,1,0,0,0,2,1
+148,4/29/2017 18:06:41,Hayne,,17,"Black, Green",1,17,4,4,Win,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Hayne,0,0,1,0,1,1,2
+149,4/29/2017 18:11:51,Lucas michaels,,15,"White, Red",0,17,5,3,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Lucas michaels,1,0,0,1,0,0,3
+150,4/29/2017 18:14:25,Pascal Maynard,,16,"Red, Green",0,16,6,4,Lose,Win,Win,,Nimble-Blade Khenra,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Pascal Maynard,0,0,0,1,1,2,1
+151,4/29/2017 18:14:29,Bob Marshall,,19,"White, Black",0,16,7,2,Lose,Win,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Bob Marshall,1,0,1,0,0,1,2
+152,4/29/2017 18:15:08,Eli Yannopoulos,,18,"White, Green",0,16,6,2,Lose,Win,Lose,,Anointed procession,DC Draft Camp,,,"['White', 'Green']",White,Green,Eli Yannopoulos,1,0,0,0,1,1,2
+153,4/29/2017 18:15:26,Frank Skarren,,16,"Black, Green",0,17,5,1,Lose,Win,Lose,Wander in death,Exemplar of strength ,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Frank Skarren,0,0,1,0,1,1,2
+154,4/29/2017 18:15:59,Eli Yannopoulos,,18,"White, Blue",1,16,5,2,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Eli Yannopoulos,1,1,0,0,0,2,1
+155,4/29/2017 18:17:55,Nate Sturm,,19,"Blue, Green",1,17,6,4,Lose,Win,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Nate Sturm,0,1,0,0,1,2,1
+156,4/29/2017 18:28:45,Jarvis Yu,,16,"White, Green",0,17,5,1,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Jarvis Yu,1,0,0,0,1,0,3
+157,4/29/2017 18:29:35,Michael Simon,,16,"Blue, Red",0,16,3,3,Lose,Lose,Win,Winds of Rebuke,Guststrike,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Michael Simon,0,1,0,1,0,1,2
+158,4/29/2017 18:30:12,Eric Froehlich,,17,"Blue, Black",0,16,1,1,Lose,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Eric Froehlich,0,1,1,0,0,1,2
+159,4/29/2017 18:31:37,Ryan Saxe,,18,"White, Red",0,16,10,2,Win,Win,Lose,Flameblade adept,,DC Draft Camp,,,"['White', 'Red']",White,Red,Ryan Saxe,1,0,0,1,0,2,1
+160,4/29/2017 18:31:41,Lance Hartbarger,,18,"Black, Green",0,16,3,3,Lose,Win,Lose,Grasping Dunes,Blighted Bat,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Lance Hartbarger,0,0,1,0,1,1,2
+161,4/29/2017 18:31:42,Evan Whitehouse,,18,"Black, Green",1,16,4,0,Win,Win,Win,Cartouche of ambitions,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Evan Whitehouse,0,0,1,0,1,3,0
+162,4/29/2017 18:33:25,,Steven Mccoy,7,"Black, Green",0,16,4,2,Lose,Lose,Did not play,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Steven Mccoy,0,0,1,0,1,0,2
+163,4/29/2017 18:34:08,Steven Mccoy,,18,"White, Blue",1,16,2,4,Lose,Lose,Did not play,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Steven Mccoy,1,1,0,0,0,0,2
+164,4/29/2017 18:35:17,Brendan Hurst,,18,"Black, Red",0,17,5,3,Did not play,Lose,Win,"Supernatural Stamina, Wander in Death",,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Brendan Hurst,0,0,1,1,0,1,1
+165,4/29/2017 18:55:35,Neeraj Shukla,,19,"White, Black",0,16,6,1,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Neeraj Shukla,1,0,1,0,0,2,1
+166,4/29/2017 18:57:29,Abe Stein,,12,"Blue, Red",0,16,3,1,Win,Win,Lose,Battlefield scavenger,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Abe Stein,0,1,0,1,0,2,1
+167,4/29/2017 18:57:47,Matt Ling,,20,"Red, Green",0,16,7,1,Lose,Win,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Matt Ling,0,0,0,1,1,1,2
+168,4/29/2017 18:59:14,Abe Stein,,20,"Black, Green",0,16,5,1,Win,Win,Win,Unburden,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Abe Stein,0,0,1,0,1,3,0
+169,4/29/2017 18:59:53,Steve Rubin,,21,"White, Green",0,17,4,2,Win,Lose,Win,Gust walker,Oketra the True,DC Draft Camp,,,"['White', 'Green']",White,Green,Steve Rubin,1,0,0,0,1,2,1
+170,4/29/2017 19:00:00,Siggy,,16,"Blue, Black",0,16,1,0,Win,Lose,Lose,Shadowstorm Vizier,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Siggy,0,1,1,0,0,1,2
+171,4/29/2017 19:00:50,Anand Khare,,16,"Black, Red",0,17,3,1,Win,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Anand Khare,0,0,1,1,0,2,1
+172,4/29/2017 19:02:09,Adonnys Medrano,,21,"Blue, Black",0,17,2,2,Lose,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Adonnys Medrano,0,1,1,0,0,1,2
+173,4/29/2017 19:03:01,Chad uzzell,,21,"White, Black",0,17,7,1,Lose,Win,Win,Time to reflect,Those who serve,DC Draft Camp,,,"['White', 'Black']",White,Black,Chad uzzell,1,0,1,0,0,2,1
+174,4/29/2017 19:03:05,Patrick Johnson,,19,"Black, Red",0,17,5,0,Win,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Patrick Johnson,0,0,1,1,0,1,2
+175,4/29/2017 19:04:13,Chas Hinkle,,22,"White, Red",0,16,8,2,Lose,Lose,Did not play,Emberhorn Minotaur,Pursue Glory,DC Draft Camp,,,"['White', 'Red']",White,Red,Chas Hinkle,1,0,0,1,0,0,2
+176,4/29/2017 19:08:29,Joel Sadowsky,,19,"Blue, Green",0,16,4,1,Win,Win,Lose,Vizier of tumbling sands,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Joel Sadowsky,0,1,0,0,1,2,1
+177,4/29/2017 19:08:53,Jeff Gottstein,,21,"Red, Green",1,16,8,2,Lose,Lose,Lose,,Defiant greatmaw,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Jeff Gottstein,0,0,0,1,1,0,3
+178,4/29/2017 19:13:04,Travis Woo,,19,"White, Red",0,16,7,1,Win,Win,Win,Fling!,,DC Draft Camp,,,"['White', 'Red']",White,Red,Travis Woo,1,0,0,1,0,3,0
+179,4/29/2017 19:23:45,Timothy Wu,,16,"White, Black",0,16,6,1,Win,Win,Lose,Cruel Reality,Djeru's Resolve,DC Draft Camp,,,"['White', 'Black']",White,Black,Timothy Wu,1,0,1,0,0,2,1
+180,4/29/2017 19:26:20,Seth Manfield,,16,"White, Blue",0,17,8,1,Win,Win,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Seth Manfield,1,1,0,0,0,3,0
+181,4/29/2017 19:27:14,Seth Manfield,,21,"Blue, Black",0,16,4,0,Win,Lose,Did not play,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Seth Manfield,0,1,1,0,0,1,1
+182,4/29/2017 19:36:08,,Joel,6,"White, Red",0,16,6,2,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Joel,1,0,0,1,0,0,3
+183,4/29/2017 19:37:33,Joel,,14,White,1,17,3,3,Lose,Win,Lose,,,DC Draft Camp,,,['White'],White,,Joel,1,0,0,0,0,1,2
+184,4/29/2017 19:38:21,Joel,,20,"Red, Green",0,17,4,1,Win,Win,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Joel,0,0,0,1,1,2,1
+185,4/29/2017 19:38:47,Ondrej strasky,,20,"White, Green",1,16,4,3,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Ondrej strasky,1,0,0,0,1,1,2
+186,4/29/2017 19:39:42,Ari Lax,,23,"Blue, Red",1,17,4,3,Lose,Lose,Did not play,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ari Lax,0,1,0,1,0,0,2
+187,4/29/2017 19:42:01,Mascioli,,22,"Black, Red",0,17,6,2,Lose,Win,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Mascioli,0,0,1,1,0,2,1
+188,4/29/2017 19:45:55,Jon Stern,,20,"White, Black",0,17,4,2,Lose,Win,Win,bone picker,dusk/dawn,DC Draft Camp,,,"['White', 'Black']",White,Black,Jon Stern,1,0,1,0,0,2,1
+189,4/29/2017 19:48:31,Rachel Otto,,22,"Red, Green",0,17,2,2,Win,Win,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Rachel Otto,0,0,0,1,1,2,1
+190,4/29/2017 19:54:51,Brendan Cevasco,,22,"Black, Green",0,18,1,2,Win,Lose,Win,grasping dunes,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Brendan Cevasco,0,0,1,0,1,2,1
+191,4/29/2017 19:54:51,Ralph,,21,"White, Red",0,17,4,1,Win,Lose,Win,,RW 3/2 uncommon 2 drop ,DC Draft Camp,,,"['White', 'Red']",White,Red,Ralph,1,0,0,1,0,2,1
+192,4/29/2017 19:56:02,Bradley Robinson,,22,"Blue, Black",0,17,2,0,Win,Lose,Lose,Cryptic serpant,Blighted bat,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Bradley Robinson,0,1,1,0,0,1,2
+193,4/29/2017 19:58:57,Anand Khare,,21,"White, Red",0,15,10,1,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Anand Khare,1,0,0,1,0,2,1
+194,4/29/2017 20:04:18,Ben Anderson,,21,"Blue, Black",0,16,3,1,Win,Win,Win,vizier of tumbling sands,shadowstorm vizier,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Ben Anderson,0,1,1,0,0,3,0
+195,4/29/2017 20:08:25,Liam Bollard,,23,White,1,16,3,2,Lose,Lose,Did not play,1g 2/2 exert deathtouch,Angel of sanctions,DC Draft Camp,,,['White'],White,,Liam Bollard,1,0,0,0,0,0,2
+196,4/29/2017 20:09:39,Matthew Towles,,20,"Black, Red",0,16,6,3,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Matthew Towles,0,0,1,1,0,1,2
+197,4/29/2017 20:10:42,Kyle wickenheiser,,20,"Blue, Black",0,17,2,3,Lose,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Kyle wickenheiser,0,1,1,0,0,0,3
+198,4/29/2017 20:12:33,Alex Majlaton,,23,"White, Red",0,16,6,0,Lose,Win,Lose,Limits of Solidarity,Onward // Victory,DC Draft Camp,,,"['White', 'Red']",White,Red,Alex Majlaton,1,0,0,1,0,1,2
+199,4/29/2017 20:14:50,Sawyer Lucy,,23,"Blue, Green",0,16,2,3,Win,Lose,Win,Naga Oracle,Champion of Rhonas,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Sawyer Lucy,0,1,0,0,1,2,1
+200,4/29/2017 20:21:52,Ben Nikolich,,23,"Blue, Red",0,16,4,2,Win,Lose,Win,Seeker of Insight,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ben Nikolich,0,1,0,1,0,2,1
+201,4/29/2017 20:22:15,Adam Ragsdale,,23,"Black, Green",0,17,3,2,Win,Win,Lose,Cursed minotaur,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Adam Ragsdale,0,0,1,0,1,2,1
+202,4/29/2017 20:26:49,Jake Mondello,,23,"White, Green",0,17,8,1,Win,Win,Win,Greater sandwurm,,DC Draft Camp,,,"['White', 'Green']",White,Green,Jake Mondello,1,0,0,0,1,3,0
+203,4/29/2017 20:26:49,Grant B,,23,"Black, Green",1,16,3,4,Lose,Win,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Grant B,0,0,1,0,1,1,2
+204,4/29/2017 20:36:03,Frank Skarren,,24,Red,0,16,6,2,Win,Win,Win,Fling,,DC Draft Camp,,,['Red'],Red,,Frank Skarren,0,0,0,1,0,3,0
+205,4/29/2017 20:38:53,Calcano,,24,"White, Blue",0,16,8,3,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Calcano,1,1,0,0,0,2,1
+206,4/29/2017 20:39:07,Daniel Zeffert,,24,"Blue, Black",0,17,1,2,Lose,Lose,Win,Edifice of authority ,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Daniel Zeffert,0,1,1,0,0,1,2
+207,4/29/2017 20:44:54,Pat Cox,,25,Red,1,16,5,3,Win,Win,Lose,,,DC Draft Camp,,,['Red'],Red,,Pat Cox,0,0,0,1,0,2,1
+208,4/29/2017 20:46:39,Bob Marshall,,25,"White, Blue",0,17,4,4,Win,Win,Win,"Temmet, vizier of naktamun",Ancient crab,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Bob Marshall,1,1,0,0,0,3,0
+209,4/29/2017 20:49:58,Lucas michaels,,24,"Blue, Green",0,16,6,1,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Lucas michaels,0,1,0,0,1,2,1
+210,4/29/2017 20:50:50,Eli Yannopoulos,,25,"Black, Green",1,17,4,1,Win,Lose,Lose,Doomed Dissenter,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Eli Yannopoulos,0,0,1,0,1,1,2
+211,4/29/2017 20:51:36,Brendan Hurst,,25,"White, Black",1,16,6,1,Lose,Win,Win,Wander in Death,,DC Draft Camp,,,"['White', 'Black']",White,Black,Brendan Hurst,1,0,1,0,0,2,1
+212,4/29/2017 20:54:25,,Tony Hopkins,14,"Blue, Green",1,17,3,3,Win,Lose,Lose,Sacred Excavation,Benefaction of Rhonas,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Tony Hopkins,0,1,0,0,1,1,2
+213,4/29/2017 20:55:11,Tony Hopkins,,21,"Black, Green",1,17,3,2,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Tony Hopkins,0,0,1,0,1,1,2
+214,4/29/2017 20:56:08,Jarvis Yu,,25,"Black, Green",0,17,6,2,Lose,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Jarvis Yu,0,0,1,0,1,0,3
+215,4/29/2017 20:58:28,,Allen Sun,25,"Blue, Red",0,16,5,2,Lose,Lose,Win,Emberhorn minotaur,Open into wonder,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Allen Sun,0,1,0,1,0,1,2
+216,4/29/2017 21:11:00,Hayne,,24,"Red, Green",0,17,6,3,Win,Lose,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Hayne,0,0,0,1,1,1,2
+217,4/29/2017 21:15:53,Pascal Maynard,,24,"White, Red",0,16,7,1,Lose,Win,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Pascal Maynard,1,0,0,1,0,2,1
+218,4/29/2017 21:16:04,Andrew Elenbogen,,24,"White, Green",1,16,2,2,Lose,Win,Lose,,Gideon of the Trials,DC Draft Camp,,,"['White', 'Green']",White,Green,Andrew Elenbogen,1,0,0,0,1,1,2
+219,4/29/2017 21:26:58,Patrick Johnson,,26,Blue,1,16,2,2,Win,Lose,Did not play,,,DC Draft Camp,,,['Blue'],Blue,,Patrick Johnson,0,1,0,0,0,1,1
+220,4/29/2017 21:39:42,Chad uzzell,,27,"Black, Red",0,17,6,3,Lose,Lose,Lose,Trial of zeal,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Chad uzzell,0,0,1,1,0,0,3
+221,4/29/2017 21:45:54,Nate Sturm,,26,"White, Red",0,16,9,4,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Nate Sturm,1,0,0,1,0,2,1
+222,4/29/2017 21:47:15,Evan Whitehouse,,26,"Black, Green",1,17,4,1,Win,Lose,Lose,Decimator beetle,Cursed minotaur,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Evan Whitehouse,0,0,1,0,1,1,2
+223,4/29/2017 22:00:38,Adonnys Medrano,,23,"Black, Green",0,17,6,1,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Adonnys Medrano,0,0,1,0,1,1,2
+224,4/29/2017 22:03:21,Stephen neal,,22,"White, Black",0,16,4,2,Win,Win,Win,Supernatural stamina ,,DC Draft Camp,,,"['White', 'Black']",White,Black,Stephen neal,1,0,1,0,0,3,0
+225,4/29/2017 22:03:29,Ben Anderson,,27,"Black, Green",1,17,7,2,Lose,Win,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Ben Anderson,0,0,1,0,1,1,2
+226,4/29/2017 22:04:50,Stephen neal,,27,"Blue, Red",1,16,4,3,Win,Lose,Win,Cryptic serpent,Seeker of insight,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Stephen neal,0,1,0,1,0,2,1
+227,4/29/2017 22:07:19,Michael Simon,,25,"Blue, Green",0,17,3,3,Win,Lose,Win,Stinging Shot,Floodwaters,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Michael Simon,0,1,0,0,1,2,1
+228,4/29/2017 22:10:11,Andrew Berke,,26,"White, Blue",0,17,4,4,Win,Win,Win,Seraph of the Suns,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Andrew Berke,1,1,0,0,0,3,0
+229,4/29/2017 22:13:14,Joel Sadowsky,,27,"Blue, Black",0,17,4,0,Lose,Lose,Did not play,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Joel Sadowsky,0,1,1,0,0,0,2
+230,4/29/2017 22:13:54,Neeraj Shukla,,27,"Black, Green",0,17,5,1,Win,Win,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Neeraj Shukla,0,0,1,0,1,2,1
+231,4/29/2017 22:14:39,Jeff Gottstein,,26,"Blue, Green",0,16,4,4,Win,Win,Lose,"Kefnet, the mindful",,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Jeff Gottstein,0,1,0,0,1,2,1
+232,4/29/2017 22:15:02,Abe Stein,,27,"White, Black",0,16,6,0,Win,Win,Win,White trial,,DC Draft Camp,,,"['White', 'Black']",White,Black,Abe Stein,1,0,1,0,0,3,0
+233,4/29/2017 22:16:35,Ryan Saxe,,25,"White, Black",0,16,8,0,Lose,Win,Lose,Oketra's Monument,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ryan Saxe,1,0,1,0,0,1,2
+234,4/29/2017 22:17:18,Travis Woo,,27,"White, Red",0,16,6,1,Win,Lose,Did not play,"Red haste initiate, manticore",,DC Draft Camp,,,"['White', 'Red']",White,Red,Travis Woo,1,0,0,1,0,1,1
+235,4/29/2017 22:17:34,Ari Lax,,27,"White, Black",0,17,5,5,Lose,Win,Did not play,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ari Lax,1,0,1,0,0,1,1
+236,4/29/2017 22:18:25,Adam Ragsdale,,28,"White, Green",0,17,5,1,Lose,Lose,Did not play,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Adam Ragsdale,1,0,0,0,1,0,2
+237,4/29/2017 22:32:46,Frank Skarren,,28,"Blue, Green",1,16,4,2,Lose,Lose,Did not play,1/3 looter,Blue trial ,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Frank Skarren,0,1,0,0,1,0,2
+238,4/29/2017 22:42:14,Alex Majlaton,,28,"Blue, Black",0,16,2,1,Win,Lose,Did not play,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Alex Majlaton,0,1,1,0,0,1,1
+239,4/29/2017 22:42:19,Ben Nikolich,,28,"Red, Green",0,16,7,2,Win,Lose,Win,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Ben Nikolich,0,0,0,1,1,2,1
+240,4/29/2017 22:54:57,Jake Mondello,,28,"Red, Green",0,17,5,3,Win,Win,Win,"Samut, glorybringer, heart-piercer manticore",,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Jake Mondello,0,0,0,1,1,3,0
+241,4/29/2017 22:58:43,Rachel Otto,,27,"Blue, Black",0,16,4,3,Lose,Lose,Did not play,Cartouche of Ambition,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Rachel Otto,0,1,1,0,0,0,2
+242,4/29/2017 23:31:21,Calcano,,28,"White, Green",0,16,5,1,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Calcano,1,0,0,0,1,2,1
+243,4/30/2017 9:22:02,Paulo Vitor,,21,"Blue, Green",1,17,4,5,Lose,Win,Lose,Fog out of the sideboard vs an RG deck full of tricks,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Paulo Vitor,0,1,0,0,1,1,2
+244,4/30/2017 11:41:21,,Charlie Edelman,26,"Black, Green",0,16,4,0,Lose,Win,Did not play,Wasteland scorpion,Ruthless sniper,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Charlie Edelman,0,0,1,0,1,1,1
+245,4/30/2017 12:34:52,Michael Simon,,29,"White, Blue",1,17,3,3,Win,Win,Win,Reduce//Rubble,Floodwaters,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Michael Simon,1,1,0,0,0,3,0
+246,4/30/2017 12:36:51,Pascal Maynard,,29,"White, Red",0,16,5,0,Lose,Win,Win,,,DC Draft Camp,,,"['White', 'Red']",White,Red,Pascal Maynard,1,0,0,1,0,2,1
+247,4/30/2017 12:36:57,Pat Cox,,29,"White, Green",0,16,6,1,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Pat Cox,1,0,0,0,1,1,2
+248,4/30/2017 12:41:26,Ben Nikolich,,29,"Blue, Green",0,17,4,4,Lose,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Ben Nikolich,0,1,0,0,1,0,3
+249,4/30/2017 12:43:48,Ari Lax,,30,"White, Blue",0,17,6,0,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Ari Lax,1,1,0,0,0,2,1
+250,4/30/2017 12:44:00,,Marius cholewa,30,"Black, Green",1,16,5,2,Lose,Win,Win,Synchronized strike ,Grim strider ,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Marius cholewa,0,0,1,0,1,2,1
+251,4/30/2017 12:45:38,Alex Majlaton,,30,"White, Black",0,16,8,2,Lose,Win,Lose,Approach of the Second Sun,Anointed Procession ,DC Draft Camp,,,"['White', 'Black']",White,Black,Alex Majlaton,1,0,1,0,0,1,2
+252,4/30/2017 12:46:42,Jarvis Yu,,30,"Black, Red",0,17,5,2,Win,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Jarvis Yu,0,0,1,1,0,2,1
+253,4/30/2017 12:48:22,Stephen neal,,30,"Red, Green",0,17,6,5,Win,Lose,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Stephen neal,0,0,0,1,1,1,2
+254,4/30/2017 12:50:06,Jon Stern,,30,Red,1,16,8,1,Win,Win,Win,consuming vapor,,DC Draft Camp,,,['Red'],Red,,Jon Stern,0,0,0,1,0,3,0
+255,4/30/2017 12:54:06,Daniel Zeffert,,30,"Blue, Green",0,17,4,1,Lose,Lose,Lose,,Bounty of the luxa,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Daniel Zeffert,0,1,0,0,1,0,3
+256,4/30/2017 12:54:07,Adam Ragsdale,,30,"Black, Green",0,16,5,1,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Adam Ragsdale,0,0,1,0,1,1,2
+257,4/30/2017 13:05:49,Neeraj Shukla,,29,"Black, Green",0,17,5,1,Lose,Win,Lose,Soulstinger,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Neeraj Shukla,0,0,1,0,1,1,2
+258,4/30/2017 13:15:44,Ryan Saxe,,29,"Black, Red",1,17,4,2,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Ryan Saxe,0,0,1,1,0,1,2
+259,4/30/2017 13:22:34,Anand Khare,,32,"White, Black",0,17,3,1,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Anand Khare,1,0,1,0,0,1,2
+260,4/30/2017 13:26:34,Calcano,,29,"White, Blue",0,16,5,1,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Calcano,1,1,0,0,0,2,1
+261,4/30/2017 13:27:31,Timothy Wu,,29,"White, Red",0,16,7,0,Win,Lose,Win,Ahn-crop Crashed,Electrify,DC Draft Camp,,,"['White', 'Red']",White,Red,Timothy Wu,1,0,0,1,0,2,1
+262,4/30/2017 13:30:08,Ondrej strasky,,32,"White, Red",0,15,7,2,Win,Win,Lose,Fling,,DC Draft Camp,,,"['White', 'Red']",White,Red,Ondrej strasky,1,0,0,1,0,2,1
+263,4/30/2017 13:30:14,Sawyer Lucy,,32,"White, Red",1,16,5,2,Win,Win,Win,Bloodlust Inciter,,DC Draft Camp,,,"['White', 'Red']",White,Red,Sawyer Lucy,1,0,0,1,0,3,0
+264,4/30/2017 13:30:46,Mascioli,,32,"Red, Green",1,17,5,2,Lose,Lose,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Mascioli,0,0,0,1,1,0,3
+265,4/30/2017 13:39:34,Bobby Birmingham,,31,"White, Green",1,17,6,3,Win,Lose,Win,Channeler intiate,,DC Draft Camp,,,"['White', 'Green']",White,Green,Bobby Birmingham,1,0,0,0,1,2,1
+266,4/30/2017 13:41:17,Jake Mondello,,31,"Red, Green",0,16,9,1,Lose,Win,Win,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Jake Mondello,0,0,0,1,1,2,1
+267,4/30/2017 13:45:01,Lucas michaels,,32,Green,1,16,4,2,Lose,Win,Win,,Devoted crop mate,DC Draft Camp,,,['Green'],Green,,Lucas michaels,0,0,0,0,1,2,1
+268,4/30/2017 13:48:34,Travis Woo,,31,"Black, Red",0,16,7,2,Win,Lose,Lose,Honored khopesh,Pitiless vizier,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Travis Woo,0,0,1,1,0,1,2
+269,4/30/2017 13:52:51,Lance Hartbarger,,32,"Blue, Black",1,17,4,3,Win,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Lance Hartbarger,0,1,1,0,0,1,2
+270,4/30/2017 13:54:06,Siggy,,32,"Blue, Black",0,17,5,3,Win,Lose,Win,,Rags/Riches,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Siggy,0,1,1,0,0,2,1
+271,4/30/2017 14:09:26,Ben Anderson,,31,"White, Blue",0,17,6,4,Win,Win,Lose,oketra's monument,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Ben Anderson,1,1,0,0,0,2,1
+272,4/30/2017 14:13:38,Brendan Cevasco,,31,"Black, Red",0,17,9,2,Win,Win,Win,grim strider,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Brendan Cevasco,0,0,1,1,0,3,0
+273,4/30/2017 14:28:08,Hayne,,31,"White, Black",0,17,3,2,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Hayne,1,0,1,0,0,1,2
+274,4/30/2017 14:46:47,Ben Nikolich,,33,"White, Red",0,16,5,2,Win,Win,Lose,Fling,,DC Draft Camp,,,"['White', 'Red']",White,Red,Ben Nikolich,1,0,0,1,0,2,1
+275,4/30/2017 14:47:48,Evan Whitehouse,,33,"Red, Green",0,16,6,0,Win,Win,Win,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Evan Whitehouse,0,0,0,1,1,3,0
+276,4/30/2017 14:50:23,Owen Collier-Ridge,,15,"White, Black",0,16,4,1,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Owen Collier-Ridge,1,0,1,0,0,2,1
+277,4/30/2017 14:51:45,Owen Collier-Ridge,,33,"Blue, Red",0,16,3,1,Lose,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Owen Collier-Ridge,0,1,0,1,0,1,2
+278,4/30/2017 14:56:29,Evan Appleton,,33,"White, Black",0,17,5,0,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Evan Appleton,1,0,1,0,0,0,3
+279,4/30/2017 15:09:40,Ryan Saxe,,33,"Black, Green",0,16,3,2,Win,Lose,Lose,Best of scarabs,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Ryan Saxe,0,0,1,0,1,1,2
+280,4/30/2017 15:11:45,Matt Ling,,33,"White, Blue",0,16,5,2,Lose,Win,Lose,,Kefnet's Monument,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Matt Ling,1,1,0,0,0,1,2
+281,4/30/2017 15:13:11,Andrew Elenbogen,,33,"White, Red",1,17,5,2,Lose,Win,Win,Battlefield Scrounger,Heart Piercer Manticore,DC Draft Camp,,,"['White', 'Red']",White,Red,Andrew Elenbogen,1,0,0,1,0,2,1
+282,4/30/2017 15:16:14,Steve Rubin,,33,"Blue, Green",1,16,4,6,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Steve Rubin,0,1,0,0,1,2,1
+283,4/30/2017 15:25:19,Anand Khare,,35,"Black, Red",0,16,10,3,Win,Win,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Anand Khare,0,0,1,1,0,3,0
+284,4/30/2017 15:26:10,Ari Lax,,35,"Red, Green",0,17,5,1,Win,Win,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Ari Lax,0,0,0,1,1,2,1
+285,4/30/2017 15:49:13,Neeraj Shukla,,35,"White, Green",0,15,7,1,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Neeraj Shukla,1,0,0,0,1,2,1
+286,4/30/2017 15:49:22,Daniel Zeffert,,35,"Black, Green",0,17,3,3,Lose,Win,Lose,Sandwurm convergence,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Daniel Zeffert,0,0,1,0,1,1,2
+287,4/30/2017 15:58:29,,35,35,"Blue, Green",0,16,4,2,Lose,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,35,0,1,0,0,1,0,3
+288,4/30/2017 15:58:29,Pat Cox,,35,"Blue, Red",0,17,2,2,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Pat Cox,0,1,0,1,0,2,1
+289,4/30/2017 15:59:03,Jarvis Yu,,35,"White, Black",0,17,5,1,Lose,Win,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Jarvis Yu,1,0,1,0,0,1,2
+290,4/30/2017 16:03:19,Jon Stern,,35,"Blue, Black",0,16,6,1,Lose,Lose,Win,naga oracle,seeker of insight,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Jon Stern,0,1,1,0,0,1,2
+291,4/30/2017 16:13:43,Adam Ragsdale,,34,"Black, Green",0,16,4,1,Lose,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Adam Ragsdale,0,0,1,0,1,0,3
+292,4/30/2017 16:13:57,Travis Woo,,32,"White, Green",0,17,6,1,Lose,Lose,Did not play,,Sandwurm Convergence,DC Draft Camp,,,"['White', 'Green']",White,Green,Travis Woo,1,0,0,0,1,0,2
+293,4/30/2017 16:15:07,Timothy Wu,,34,"White, Green",0,17,7,3,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Timothy Wu,1,0,0,0,1,1,2
+294,4/30/2017 16:15:21,Eric Froehlich,,34,"Blue, Red",0,17,1,3,Win,Lose,Win,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Eric Froehlich,0,1,0,1,0,2,1
+295,4/30/2017 16:15:59,Michael Simon,,33,"White, Blue",0,17,3,2,Win,Win,Lose,Compulsory Rest,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Michael Simon,1,1,0,0,0,2,1
+296,4/30/2017 16:16:14,Brendan Cevasco,,36,"Blue, Green",0,17,3,2,Lose,Lose,Did not play,,spring//mind,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Brendan Cevasco,0,1,0,0,1,0,2
+297,4/30/2017 16:16:57,,Michael Altizer,34,"Blue, Black",0,17,3,0,Lose,Lose,Win,Illusory Wraps,Shadowstorm Vizier,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Michael Altizer,0,1,1,0,0,1,2
+298,4/30/2017 16:21:55,Marius cholewa,,34,"Red, Green",0,17,2,3,Lose,Win,Lose,Fling,Champion of rhonas ,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Marius cholewa,0,0,0,1,1,1,2
+299,4/30/2017 16:23:50,Pascal Maynard,,34,"White, Black",0,16,5,1,Lose,Win,Win,Lay Bare the Heart,,DC Draft Camp,,,"['White', 'Black']",White,Black,Pascal Maynard,1,0,1,0,0,2,1
+300,4/30/2017 16:32:20,Jake Mondello,,37,"White, Green",0,17,5,2,Lose,Win,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Jake Mondello,1,0,0,0,1,1,2
+301,4/30/2017 16:33:44,Alex Majlaton,,36,"White, Red",0,16,6,1,Win,Win,Win,Bloodlust Inciter,,DC Draft Camp,,,"['White', 'Red']",White,Red,Alex Majlaton,1,0,0,1,0,3,0
+302,4/30/2017 16:44:02,Mascioli,,36,"Black, Red",0,16,7,2,Lose,Win,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Mascioli,0,0,1,1,0,2,1
+303,4/30/2017 16:46:08,Ben Anderson,,36,"Black, Red",0,17,5,1,Lose,Win,Win,fling,honed khopesh,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Ben Anderson,0,0,1,1,0,2,1
+304,4/30/2017 16:47:18,Bobby Birmingham,,36,"Blue, Black",0,16,5,5,Win,Lose,Lose,Archfiend of ifnir,New Perspectives,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Bobby Birmingham,0,1,1,0,0,1,2
+305,4/30/2017 17:01:44,Andrew Berke,,37,"Red, Green",1,17,5,2,Lose,Lose,Win,,"Hantra, Vizier of Poisons",DC Draft Camp,,,"['Red', 'Green']",Red,Green,Andrew Berke,0,0,0,1,1,1,2
+306,4/30/2017 17:02:43,Rachel Otto,,31,"White, Black",0,16,7,1,Lose,Lose,Lose,Sacred Cat,,DC Draft Camp,,,"['White', 'Black']",White,Black,Rachel Otto,1,0,1,0,0,0,3
+307,4/30/2017 17:07:43,Rachel Otto,,37,"Black, Green",0,17,6,0,Lose,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Rachel Otto,0,0,1,0,1,0,3
+308,4/30/2017 17:12:29,Stephen neal,,34,"White, Black",1,17,4,2,Win,Win,Win,Rags,Anointer priest,DC Draft Camp,,,"['White', 'Black']",White,Black,Stephen neal,1,0,1,0,0,3,0
+309,4/30/2017 17:16:25,Hayne,,37,"White, Black",0,17,6,5,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Hayne,1,0,1,0,0,1,2
+310,4/30/2017 17:22:09,Paulo Vitor,,37,"Black, Red",0,17,4,3,Win,Win,Lose,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Paulo Vitor,0,0,1,1,0,2,1
+311,4/30/2017 17:25:07,Paulo Vitor,,32,"Blue, Black",0,16,3,2,Lose,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Paulo Vitor,0,1,1,0,0,1,2
+312,4/30/2017 17:37:21,Frank Skarren,,38,"White, Red",0,16,7,3,Lose,Win,Win,Combat Celebrant ,,DC Draft Camp,,,"['White', 'Red']",White,Red,Frank Skarren,1,0,0,1,0,2,1
+313,4/30/2017 17:37:38,Anand Khare,,38,"Black, Red",0,17,3,2,Win,Lose,Lose,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Anand Khare,0,0,1,1,0,1,2
+314,4/30/2017 17:44:52,Owen Collier-Ridge,,39,"Black, Red",0,17,6,3,Lose,Lose,Did not play,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Owen Collier-Ridge,0,0,1,1,0,0,2
+315,4/30/2017 17:50:52,Evan Appleton,,38,"White, Green",0,16,2,2,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Evan Appleton,1,0,0,0,1,1,2
+316,4/30/2017 18:05:26,Ari Lax,,38,"Black, Red",0,16,5,0,Lose,Win,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Ari Lax,0,0,1,1,0,2,1
+317,4/30/2017 18:07:42,Steve Rubin,,38,"White, Black",0,16,5,2,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Steve Rubin,1,0,1,0,0,0,3
+318,4/30/2017 18:08:43,Evan Whitehouse,,38,"Blue, Green",1,16,4,3,Lose,Win,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Evan Whitehouse,0,1,0,0,1,2,1
+319,4/30/2017 18:09:46,Michael Simon,,39,"Black, Red",1,17,3,2,Lose,Lose,Did not play,Pitiless Vizier,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Michael Simon,0,0,1,1,0,0,2
+320,4/30/2017 18:19:58,Andrew Elenbogen,,39,"Red, Green",0,16,9,1,Lose,Win,Lose,Bloodlust Inciter,Emberhorn Minotaur,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Andrew Elenbogen,0,0,0,1,1,1,2
+321,4/30/2017 18:23:01,Matt Ling,,39,"White, Black",0,17,9,1,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Matt Ling,1,0,1,0,0,2,1
+322,4/30/2017 18:23:02,Jarvis Yu,,39,"Blue, Red",0,16,2,2,Win,Win,Win,Drake haven and tormenting voice,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Jarvis Yu,0,1,0,1,0,3,0
+323,4/30/2017 18:23:19,Travis Woo,,39,"Red, Green",1,15,9,0,Lose,Win,Lose,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Travis Woo,0,0,0,1,1,1,2
+324,4/30/2017 18:24:05,Stephen neal,,39,"Black, Green",0,17,3,0,Win,Lose,Win,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Stephen neal,0,0,1,0,1,2,1
+325,4/30/2017 18:27:01,Timothy Wu,,39,"White, Blue",0,16,6,3,Win,Lose,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Timothy Wu,1,1,0,0,0,2,1
+326,4/30/2017 18:34:00,Brendan Cevasco,,40,"Black, Red",0,16,6,0,Lose,Lose,Win,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Brendan Cevasco,0,0,1,1,0,1,2
+327,4/30/2017 18:36:15,Jake Mondello,,40,"Black, Red",0,17,6,4,Lose,Win,Lose,,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Jake Mondello,0,0,1,1,0,1,2
+328,4/30/2017 18:37:22,Ondrej strasky,,40,"White, Black",0,17,7,0,Lose,Win,Win,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Ondrej strasky,1,0,1,0,0,2,1
+329,4/30/2017 18:38:59,Siggy,,40,"Red, Green",0,17,5,4,Win,Win,Win,,,DC Draft Camp,,,"['Red', 'Green']",Red,Green,Siggy,0,0,0,1,1,3,0
+330,4/30/2017 18:39:48,Ben Nikolich,,38,"Blue, Green",0,17,4,3,Win,Win,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Ben Nikolich,0,1,0,0,1,3,0
+331,4/30/2017 18:39:50,Ryan Saxe,,38,"White, Blue",0,16,8,1,Win,Win,Lose,Sacred cat,Galestrike ,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Ryan Saxe,1,1,0,0,0,2,1
+332,4/30/2017 18:46:25,Pascal Maynard,,40,"Blue, Black",0,16,4,2,Win,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Pascal Maynard,0,1,1,0,0,1,2
+333,4/30/2017 18:48:07,Michael Altizer,,40,"White, Green",0,17,4,2,Win,Lose,Win,Watchful Naga,,DC Draft Camp,,,"['White', 'Green']",White,Green,Michael Altizer,1,0,0,0,1,2,1
+334,4/30/2017 18:48:57,Eric Froehlich,,40,"White, Black",0,17,3,3,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Black']",White,Black,Eric Froehlich,1,0,1,0,0,2,1
+335,4/30/2017 18:49:06,Neeraj Shukla,,40,"White, Green",0,16,6,1,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Neeraj Shukla,1,0,0,0,1,0,3
+336,4/30/2017 18:51:09,Siggy,,37,"Black, Red",1,16,5,3,Lose,Win,Win,Minotaur Javilneer,,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Siggy,0,0,1,1,0,2,1
+337,4/30/2017 19:12:09,Ari Lax,,41,"White, Blue",1,16,9,0,Win,Win,Lose,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Ari Lax,1,1,0,0,0,2,1
+338,4/30/2017 19:24:52,Joel,,41,"White, Green",0,17,5,1,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Joel,1,0,0,0,1,1,2
+339,4/30/2017 19:25:41,Lucas michaels,,36,"Blue, Black",0,16,4,1,Win,Lose,Lose,,,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Lucas michaels,0,1,1,0,0,1,2
+340,4/30/2017 19:26:08,Joel,,34,"Blue, Green",0,17,3,4,Win,Win,Win,,,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Joel,0,1,0,0,1,3,0
+341,4/30/2017 19:27:19,Sawyer Lucy,,36,"Blue, Red",0,16,3,2,Win,Win,Lose,,,DC Draft Camp,,,"['Blue', 'Red']",Blue,Red,Sawyer Lucy,0,1,0,1,0,2,1
+342,4/30/2017 19:54:37,Daniel Zeffert,,42,"White, Green",0,16,2,1,Lose,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Daniel Zeffert,1,0,0,0,1,0,3
+343,4/30/2017 20:34:33,,,28,"White, Black",0,17,5,2,Lose,Win,Lose,Splendid Agony,,DC Draft Camp,,,"['White', 'Black']",White,Black,,1,0,1,0,0,1,2
+344,4/30/2017 20:45:32,Owen Collier-Ridge,,42,"Black, Green",0,16,8,3,Lose,Win,Did not play,,,DC Draft Camp,,,"['Black', 'Green']",Black,Green,Owen Collier-Ridge,0,0,1,0,1,1,1
+345,4/30/2017 20:53:12,Evan Whitehouse,,42,"Black, Red",0,16,7,3,Win,Lose,Did not play,Bloodlust inciter,Bontu,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Evan Whitehouse,0,0,1,1,0,1,1
+346,4/30/2017 20:55:28,Pat Cox,,29,"White, Green",0,16,6,1,Win,Lose,Lose,,,DC Draft Camp,,,"['White', 'Green']",White,Green,Pat Cox,1,0,0,0,1,1,2
+347,4/30/2017 21:08:32,Ben Anderson,,42,"White, Red",0,16,5,2,Lose,Win,Did not play,edifice of authority,,DC Draft Camp,,,"['White', 'Red']",White,Red,Ben Anderson,1,0,0,1,0,1,1
+348,4/30/2017 21:08:49,Andrew Berke,,41,"White, Blue",0,17,4,1,Lose,Lose,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Andrew Berke,1,1,0,0,0,1,2
+349,4/30/2017 21:15:08,Lance Hartbarger,,42,"Black, Red",0,16,4,1,Lose,Lose,Did not play,Cradle of the Accursed,Nimble-blade Khenra,DC Draft Camp,,,"['Black', 'Red']",Black,Red,Lance Hartbarger,0,0,1,1,0,0,2
+350,4/30/2017 21:34:59,Jon Stern,,42,"Blue, Black",1,16,4,0,Win,Lose,Did not play,wander in death,soulstinger,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Jon Stern,0,1,1,0,0,1,1
+351,4/30/2017 21:53:03,Alex Majlaton,,42,"Blue, Black",0,16,4,2,Win,Win,Lose,Pitiless Vizier,Lay Claim,DC Draft Camp,,,"['Blue', 'Black']",Blue,Black,Alex Majlaton,0,1,1,0,0,2,1
+352,4/30/2017 21:57:05,Evan Appleton,,42,"White, Blue",0,16,11,1,Win,Win,Win,,,DC Draft Camp,,,"['White', 'Blue']",White,Blue,Evan Appleton,1,1,0,0,0,3,0
+353,4/30/2017 22:35:22,Rachel Otto,,41,"Blue, Green",1,17,3,3,Lose,Win,Lose,((I was in pod 41 or 42 I think. Chris and Haynes were in that pod...)),,DC Draft Camp,,,"['Blue', 'Green']",Blue,Green,Rachel Otto,0,1,0,0,1,1,2
+354,5/1/2017 2:31:07,,Ben Weitz,1,"White, Blue",0,17,6,3,Win,Win,Did not play,,,Cali Draft Camp,,,"['White', 'Blue']",White,Blue,Ben Weitz,1,1,0,0,0,2,0
+355,5/1/2017 2:31:36,,Sam Sherman,1,"Red, Green",0,16,4,3,Lose,Win,Did not play,,,Cali Draft Camp,,,"['Red', 'Green']",Red,Green,Sam Sherman,0,0,0,1,1,1,1
+356,5/1/2017 2:33:09,,Brandon Fischer,1,"Black, Green",0,16,5,4,Lose,Win,Did not play,,,Cali Draft Camp,,,"['Black', 'Green']",Black,Green,Brandon Fischer,0,0,1,0,1,1,1
+357,5/1/2017 2:33:44,,Ben Seck,1,"Blue, Red",0,16,4,1,Win,Lose,Did not play,,,Cali Draft Camp,,,"['Blue', 'Red']",Blue,Red,Ben Seck,0,1,0,1,0,1,1
+358,5/1/2017 2:34:14,,Allen Wu,1,"Blue, Black",0,16,4,1,Win,Win,Did not play,,,Cali Draft Camp,,,"['Blue', 'Black']",Blue,Black,Allen Wu,0,1,1,0,0,2,0
+359,5/1/2017 2:34:48,,Phil Yam,1,"Blue, Black",0,15,3,1,Win,Lose,Did not play,,,Cali Draft Camp,,,"['Blue', 'Black']",Blue,Black,Phil Yam,0,1,1,0,0,1,1
+360,5/1/2017 2:35:16,,Paul Yeem,1,"White, Black",0,17,5,4,Lose,Lose,Did not play,,,Cali Draft Camp,,,"['White', 'Black']",White,Black,Paul Yeem,1,0,1,0,0,0,2
+361,5/1/2017 2:35:45,,Mark Jacobson,1,"White, Red",0,15,9,1,Lose,Lose,Did not play,,,Cali Draft Camp,,,"['White', 'Red']",White,Red,Mark Jacobson,1,0,0,1,0,0,2
+362,5/1/2017 2:37:54,Sam Sherman,,2,"Black, Green",0,17,3,3,Win,Win,Did not play,,,Cali Draft Camp,,,"['Black', 'Green']",Black,Green,Sam Sherman,0,0,1,0,1,2,0
+363,5/1/2017 2:38:42,Allen Wu,,2,"White, Black",0,16,5,0,Lose,Lose,Did not play,,,Cali Draft Camp,,,"['White', 'Black']",White,Black,Allen Wu,1,0,1,0,0,0,2
+364,5/1/2017 2:39:20,Phil Yam,,2,"Blue, Green",0,16,4,3,Win,Lose,Did not play,,,Cali Draft Camp,,,"['Blue', 'Green']",Blue,Green,Phil Yam,0,1,0,0,1,1,1
